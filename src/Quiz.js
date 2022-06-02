@@ -11,7 +11,6 @@ class Quiz extends Component {
   }
 
   render() {
-    console.log(this.state);
     return (
       <div>
         <QuizQuestion
